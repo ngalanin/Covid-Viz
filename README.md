@@ -1,3 +1,4 @@
 # Covid-Viz
 
-[map](https://nbviewer.jupyter.org/github/ngalanin/Covid-Viz/blob/master/Covid%20viz.ipynb)
+![map](https://github.com/ngalanin/Covid-Viz/blob/master/newplot.png)
+
